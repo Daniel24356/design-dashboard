@@ -1,0 +1,36 @@
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        /* font-style: Arial; */
+    }
+    .admin-cont{
+        display: flex;
+        align-items: center;
+        gap: 670px;
+        margin-top: 10px;
+    }
+    .img-cont{
+        display: flex;
+        gap: 10px;
+    }
+  .header-text{
+     font-size: 20px;
+     margin-bottom: 3px;
+     font-weight: 600;
+     color: rgb(24,21,22);
+   }
+   .welcome-text{
+    font-size: 12px;
+    font-weight: 200;
+    color:rgb(95, 94, 94) ;
+   }
+   .profile-img{
+    width: 20px;
+    height: 20px;
+   }
+   .notif-img{
+    width: 20px;
+    height: 20px;
+   }
+   

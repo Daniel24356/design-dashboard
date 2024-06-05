@@ -1,0 +1,72 @@
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+  }
+  .user-box{
+      width: 220px;
+      height: 100px;
+      border-radius: 10px;
+      padding: 16px 13px;
+  }
+  .user-all{
+    margin-top: 20px;
+    display: flex;
+    gap: 13px;
+    margin-bottom: 5px;
+  }
+  .status-text{
+    font-size: 10px;
+    margin-bottom: 14px;
+  }
+  .status-texts{
+    font-size: 10px;
+    margin-bottom: 20px;
+  }
+
+  .price-text{
+    font-size: 18px;
+    /* font-weight: 500; */
+  }
+  .inner-cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .month-btn{
+    width: 40px;
+    height: 13px;
+    font-size: 5px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+  }
+  /* .thir-img{
+    height: 40px;
+  } */
+  .date-text{
+    font-size: 10px;
+  }
+  .img-sec{
+    height: 30px;
+    width: 208px;
+  }
+  .first{
+    background-color:rgb(255,241,216) ;
+  }
+  .second{
+    background-color:rgb(249,237,255) ;
+  }
+  .third{
+    background-color:rgb(255,238,230) ;
+  }
+  .fourth{
+    background-color:rgb(212,235,193) ;
+  }

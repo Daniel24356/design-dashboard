@@ -1,0 +1,36 @@
+  body{
+    background-color: rgb(247, 244, 244);
+  }
+ .heroSection{
+  padding: 130px 170px;
+  margin: 0px 80px;
+  margin-bottom: 50px;
+  background-image: url(image/kim-daniels-OrkEasJeY74-unsplash.jpg);
+  background-size: 1200px;
+ }
+ h1{
+   color: rgb(231, 227, 227);
+   font-size: 70px;
+ }
+ p{
+    color: white;
+ }
+
+ .hero-logo{
+      color: white;
+      font-size: 39px;
+      margin-bottom: 27px;
+ }
+ .hero-big{
+    color: white;
+    font-size: 82px;
+    line-height: 85px;
+ }
+ .hero-small{
+    font-size: 20px;
+    color: rgb(82, 79, 79);
+ }
+ .pContainer{
+    margin-top: 35px;
+ }
+ 

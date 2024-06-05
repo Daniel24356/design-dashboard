@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ .dashboard-cont{
+    display: flex;
+    gap: 40px;
+    margin-left: 13px;
+ }
+ .first-chart{
+   width: 605px;
+   height: 240px;
+   border: 1px solid gainsboro;
+   padding-top: 15px;
+   padding-right: 15px;
+   margin-top: 20px;
+   border-radius: 10px;
+ }
+ .second-chart{
+  width: 305px;
+  height: 240px;
+  border: 1px solid gainsboro;
+  padding-top: 15px;
+  padding-right: 15px;
+  margin-top: 20px;
+  border-radius: 10px;
+ }
+ .all-chart{
+  display: flex;
+  gap: 10px;
+ }

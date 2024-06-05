@@ -1,0 +1,48 @@
+ #budget{
+    background-color: gray; 
+    border: none;
+    height: 30px;
+    border-radius: 15px;
+    padding-left: 20px;
+    width: 130px;
+    color: white;
+ }
+ #budget::placeholder{
+    color: white;
+ }
+
+#price{
+    background-color: green; 
+    border: none;
+    height: 30px;
+    border-radius: 15px;
+    padding-left: 20px;
+    width: 130px;
+    color: white;
+ }
+ #price::placeholder{
+    color: white;
+ }
+ .form-control{
+     display: flex;
+     gap: 10px;
+ }
+ .add-btn{
+     height: 30px;
+     width: 30px;
+     border-radius: 50%;
+     background-color: white;
+     border: blue 2px solid ;
+     color: blue;
+     font-size: 20px;
+ }
+ .all{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    /* justify-content: center; */
+ }
+ .text-b{
+    text-align: center;
+    font-size: 33px;
+ }

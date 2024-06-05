@@ -1,0 +1,89 @@
+   *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+   }
+
+   .creative-text{
+        font-size: 12px;
+        font-weight: 600;
+   }
+   .http-c{
+    font-size: 9px;
+   }
+   .green-cont{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+   }
+   .gray-t{
+    background-color: gainsboro;
+    width: 40px;
+    height: 16px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+   }
+   .gray-n{
+    font-size: 9px;
+   }
+   .date-t{
+    font-size: 11px;
+   }
+   .outer-cont{
+    background-color: rgb(135,199,84) ;
+    width: 25px;
+    height: 14px;
+    border-radius: 9px;
+    padding-left: 12px;
+    padding-top: 1px;
+   }
+   .outer-conts{
+     background-color: rgb(255,189,91) ;
+     width: 25px;
+     height: 14px;
+     border-radius: 9px;
+     padding-left: 12px;
+     padding-top: 1px;
+    }
+   .inner-cir{
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+   }
+   .gray-cont{
+    display: flex;
+    align-items: center;
+    gap: 23px;
+   }
+   .cont-all{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 920px;
+    border: 1px solid gainsboro;
+    padding: 7px 7px;
+    border-radius: 10px;
+   }
+   .create-all{
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+   }
+   .like-icons{
+     font-size: 13px;
+   }
+   .cal-icons{
+     font-size: 13px;
+   }
+   .cal-cont{
+     display: flex;
+     align-items: center;
+     gap: 4px;
+   }

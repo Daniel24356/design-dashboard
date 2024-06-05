@@ -1,0 +1,25 @@
+   .newAll{
+     width: 350px;
+     height: 40px;
+     border: 1px solid gainsboro;
+     display: flex;
+     gap: 180px;
+     align-items: center;
+     padding-left: 45px;
+     padding-right: ;
+   }
+   .label{
+    color: gray;
+    font-size: 20px;
+    font-weight: 600;
+   }
+   .cost{
+    color: green;
+    font-size: 20px;
+    font-weight: 600;
+   }
+   .all{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   }
